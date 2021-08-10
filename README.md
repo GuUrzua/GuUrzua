@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guurzua&label=Profile%20views&color=0e75b6&style=flat" alt="guurzua" /> </p>
-
 <h1 align="center">Hi, I'm Gustavo 🐱‍💻</h1>
 <h3 align="center">A technology enthusiast and (under construction) fullstack developer from Brazil</h3>
 
