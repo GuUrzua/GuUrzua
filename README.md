@@ -25,4 +25,8 @@
 
 - 🌱 I’m currently learning and developing in **C#**
 
-- 📫 How to reach me: **gustavo.urzua2001@gmail.com**
+- 📫 How to reach me: 
+
+<div> 
+  <a href = "mailto:gustavo.urzua2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-urzua-41692418a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
