@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gustavo 🐱‍💻</h1>
-<h3 align="center">A technology enthusiast and (under construction) fullstack developer from Brazil</h3>
+<h3 align="center">A technology enthusiast and (under construction) developer from Brazil</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
