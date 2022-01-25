@@ -11,9 +11,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guurzua&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="guurzua" />
 </p> -->
 
-<p align="center">&nbsp;
+<!--<p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guurzua&show_icons=true&theme=synthwave&locale=en" alt="guurzua" />
-</p>
+</p> -->
 
 - :seedling: I’m currently learning and developing in **JavaScript, HTML5 and CSS3**
 - :book: Know the basics of **Python, C#**
