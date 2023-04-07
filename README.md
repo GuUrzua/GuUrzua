@@ -4,7 +4,8 @@
 
 <h3 align="center">Currently Learning:</h3>
 <p align="center"> 
-    <img align="center" src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" width=300 />
+    <img align="center" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" width=200 /> 
+    <img align="center" src="https://logospng.org/download/java/logo-java-512.png" width=300 />
 </p>
 
 <!-- <p align="center">
@@ -15,8 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guurzua&show_icons=true&theme=synthwave&locale=en" alt="guurzua" />
 </p> -->
 
-- :seedling: I’m currently learning and developing in **JavaScript, HTML5 and CSS3**
-- :book: Know the basics of **Python, C#**
+- :seedling: Currently developing as an Intern, coding in Java and Angular.
+- :book: Know how to code in **Angular, Java and React**
 - :mailbox: How to reach me: <div> 
   <p>
   <a href = "mailto:gustavo.urzua2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
