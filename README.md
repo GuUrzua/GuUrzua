@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gustavo 🐱‍💻</h1>
+<h1 align="center">Hi, I'm Gustavo 👨‍💻</h1>
 <h3 align="center">A technology enthusiast and (under construction) developer from Brazil  </h3>
 
 
