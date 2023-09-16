@@ -8,15 +8,7 @@
     <img align="center" src="https://logospng.org/download/java/logo-java-512.png" width=300 />
 </p>
 
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guurzua&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="guurzua" />
-</p> -->
-
-<!--<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guurzua&show_icons=true&theme=synthwave&locale=en" alt="guurzua" />
-</p> -->
-
-- :seedling: Currently developing as an Intern, coding in Java and Angular.
+- :seedling: Currently developing as an Trainee, coding in Java and Angular.
 - :book: Know how to code in **Angular, Java and React**
 - :mailbox: How to reach me: <div> 
   <p>
