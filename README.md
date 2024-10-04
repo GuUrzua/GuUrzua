@@ -8,8 +8,8 @@
     <img align="center" src="https://logospng.org/download/java/logo-java-512.png" width=300 />
 </p>
 
-- :seedling: Currently developing as an Trainee, coding in Java and Angular.
-- :book: Know how to code in **Angular, Java and React**
+- :seedling: Currently developing as Trainee, coding in Java (Spring) and Angular.
+- :book: Know how to code in **Angular and Java**
 - :mailbox: How to reach me: <div> 
   <p>
   <a href = "mailto:gustavo.urzua2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
